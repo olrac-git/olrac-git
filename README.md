@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Carlo
+- 👀 I’m interested in primarily Webdevelopmen but open for everything :)
+- 🌱 I’m currently learning Express
+- 📫 Write me on Twitter if you want
